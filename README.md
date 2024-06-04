@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Mourabm em Dobro 😁
+## Bem-vindo(a) ao perfil do Mourabm  😁
 
  <div>
    <a href="https://github.com/Mourabm">
